@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,a as e,o as t}from"./index-sz_m9H3_.js";const l={};function s(a,o){return t(),n("div",null,o[0]||(o[0]=[e("h1",null,"🖼 SVG Tool",-1),e("p",null,"SVG 아이콘이나 이미지 관련 도구입니다.",-1)]))}const _=r(l,[["render",s]]);export{_ as default};

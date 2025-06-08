@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,a as e,o as t}from"./index-sz_m9H3_.js";const a={};function l(s,o){return t(),r("div",null,o[0]||(o[0]=[e("h1",null,"🎲 Random Tool",-1),e("p",null,"무작위 문자열이나 숫자를 생성하는 도구입니다.",-1)]))}const d=n(a,[["render",l]]);export{d as default};
